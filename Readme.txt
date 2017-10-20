@@ -1,0 +1,1 @@
+To run react - addnode just go to SRC and run project.html .
